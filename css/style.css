@@ -30,3 +30,18 @@ footer {
   padding: 1 rem;
   margin-top: 2rem:
 }
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 0 1 rem;
+  }
+  'header, footer {
+    padding: 1 rem;
+  }
+
+main{
+  padding: 1 rem;
+  }
+}
